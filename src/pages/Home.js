@@ -30,7 +30,7 @@ const Container = styled.div`
 const Home = () => {
   return (
     <Container>
-      <span>Welcome to "Awesome Tweets"</span>
+      <span>Welcome to "Tweets"</span>
       <span>
         Please go to <NavLink to='/tweets'>Tweets</NavLink> to view
       </span>

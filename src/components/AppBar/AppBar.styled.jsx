@@ -11,7 +11,7 @@ export const Header = styled.header`
   align-items: center;
 
   font-size: 30px;
-  background: #ae7be3;
+  background: #4B2A99;
 
   & a {
     color: #fff;
